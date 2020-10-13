@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     </head>
         <body>
-        <h2 style="text-align:center;">Register </h2>
+        <h2 style="text-align:center;">Register page </h2>
         <div class="container">
           <div class="row">
             <div class="col-md-3">
